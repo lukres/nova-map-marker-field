@@ -1,5 +1,5 @@
 {
-    "name": "lukres/nova-map-marker-field",
+    "name": "genealabs/nova-map-marker-field",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
